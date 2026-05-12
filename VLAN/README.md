@@ -94,5 +94,16 @@ show vlan brief
 
 ---
 
+## PC IP Configuration
+
+| PC  | IP Address     | Subnet Mask     | VLAN |
+|-----|----------------|----------------|------|
+| PC1 | 192.168.10.1  | 255.255.255.0  | 10   |
+| PC2 | 192.168.10.2  | 255.255.255.0  | 10   |
+| PC3 | 192.168.20.1  | 255.255.255.0  | 20   |
+| PC4 | 192.168.20.2  | 255.255.255.0  | 20   |
+| PC5 | 192.168.30.1  | 255.255.255.0  | 30   |
+| PC6 | 192.168.30.2  | 255.255.255.0  | 30   |
+
 ## Result
 Successfully created VLANs and assigned switch ports to respective VLANs.
